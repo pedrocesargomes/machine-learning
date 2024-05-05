@@ -28,10 +28,11 @@ Este repositório contém links para artigos que escrevi sobre temas paar meu bl
 8. [Guia Básico para Processamento de Linguagem Natural (NLP)](https://www.datageeks.com.br/processamento-de-linguagem-natural/)
 9. [Conheça o algoritmo XGBoost](https://www.datageeks.com.br/xgboost/)
 10. [Classificação com Naive Bayes](https://www.datageeks.com.br/naive-bayes/)
-11. [Análise de Sentimentos com Machine Learning](https://www.datageeks.com.br/analise-de-sentimentos/)
-12. [Principais algoritmos de machine learning: como escolher?](https://www.datageeks.com.br/algoritmos-de-machine-learning/)
-13. [Dominando o Web Scraping: um guia avançado](https://www.datageeks.com.br/web-scraping/)
-14. [Conheça as Etapas do Pré-Processamento de dados](https://www.datageeks.com.br/pre-processamento-de-dados/)
+11. [k-Nearest Neighbors: Implementação do Algoritmo](https://www.datageeks.com.br/k-nearest-neighbors/)
+12. [Análise de Sentimentos com Machine Learning](https://www.datageeks.com.br/analise-de-sentimentos/)
+13. [Principais algoritmos de machine learning: como escolher?](https://www.datageeks.com.br/algoritmos-de-machine-learning/)
+14. [Dominando o Web Scraping: um guia avançado](https://www.datageeks.com.br/web-scraping/)
+15. [Conheça as Etapas do Pré-Processamento de dados](https://www.datageeks.com.br/pre-processamento-de-dados/)
 
 Fique à vontade para explorar os artigos e contribuir com feedbacks.
 
