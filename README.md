@@ -3,7 +3,7 @@ Artigos e Algoritmos de Machine Learning
 
 # Repositório de Artigos sobre Machine Learning
 
-Este repositório contém links para artigos que escrevi sobre temas paar meu blog DataGeeks, que contemplam temas como Machine Learning, Big Data e tecnologias relacionadas. 
+Este repositório contém links para artigos que escrevi para meu blog DataGeeks, que contemplam temas como Machine Learning, Big Data, Ciência de dados e tecnologias relacionadas. 
 
 ### Big Data
 1. [Inteligência Artificial desvendada](https://www.datageeks.com.br/inteligencia-artificial/)
@@ -28,7 +28,7 @@ Este repositório contém links para artigos que escrevi sobre temas paar meu bl
 8. [Guia Básico para Processamento de Linguagem Natural (NLP)](https://www.datageeks.com.br/processamento-de-linguagem-natural/)
 9. [Conheça o algoritmo XGBoost](https://www.datageeks.com.br/xgboost/)
 10. [Classificação com Naive Bayes](https://www.datageeks.com.br/naive-bayes/)
-11. [k-Nearest Neighbors: Implementação do Algoritmo](https://www.datageeks.com.br/k-nearest-neighbors/)
+11. [Deepfake: explorando os impactos, desafios e aplicações](https://www.datageeks.com.br/deepfake/)
 12. [Análise de Sentimentos com Machine Learning](https://www.datageeks.com.br/analise-de-sentimentos/)
 13. [Principais algoritmos de machine learning: como escolher?](https://www.datageeks.com.br/algoritmos-de-machine-learning/)
 14. [Dominando o Web Scraping: um guia avançado](https://www.datageeks.com.br/web-scraping/)
